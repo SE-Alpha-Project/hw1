@@ -1,2 +1,1 @@
-# My Project
-![helloworld](https://img.shields.io/badge/dynamic/json)
+![Static Badge](https://img.shields.io/badge/python-3.13-brightgreen)
