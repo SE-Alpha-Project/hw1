@@ -2,4 +2,4 @@
 ![Static Badge](https://img.shields.io/badge/platform-linux-blue)
 ![Static Badge](https://img.shields.io/badge/license-MIT-purple)
 [![Python application](https://github.com/SE-Alpha-Project/hw1/actions/workflows/python-app.yml/badge.svg)](https://github.com/SE-Alpha-Project/hw1/actions/workflows/python-app.yml)
-[![Coverage Status](https://codecov.io/gh/SE-Alpha-Project/hw1/graph/badge.svg)](https://codecov.io/gh/SE-Alpha-Project/hw1)
+[![Coverage Status](https://codecov.io/gh/SE-Alpha-Project/hw1/master/main/graph/badge.svg)](https://codecov.io/gh/SE-Alpha-Project/hw1)
