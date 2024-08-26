@@ -2,6 +2,11 @@
 import pytest
 from fibonacci import fib
 
-def test_fibo_recurs():
-    assert fib(4) == 3  # This should pass because the correct result is 3
-    assert fib(4) == 5  # This should fail because the correct result is 3
+def test_fail():
+    n = -4
+    assert n >= 0, "n should be greater than equal to 0"  # fail
+
+def test_pass():
+    n = 4
+    assert fib(n) == 3  # pass
+
