@@ -2,9 +2,9 @@
 import pytest
 from fibonacci import fib
 
-#def test_fail():
-    #n = -4
-    #assert n >= 0, "n should be greater than equal to 0"  
+def test_fail():
+    n = -4
+    assert n >= 0, "n should be greater than equal to 0"  
 
 def test_pass():
     n = 4
