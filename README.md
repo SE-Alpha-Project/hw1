@@ -1,6 +1,8 @@
 Hi Everyone!
 
 We are Team SE_Alpha. Welcome to our Github profile!
+This is our first HomeWork which is based on buidling a github repo by using Python programming
+
 
 ![Static Badge](https://img.shields.io/badge/python-3.13-brightgreen)
 ![Static Badge](https://img.shields.io/badge/platform-linux-blue)
