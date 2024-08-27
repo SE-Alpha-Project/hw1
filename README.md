@@ -1,3 +1,5 @@
+![MasterHead](https://3.bp.blogspot.com/-958_Gx2Xei8/VP3gwLYI06I/AAAAAAAAASo/L05aJuMmZoY/s1600/fibonacci.gif)
+
 Hi Everyone!
 
 We are Team SE_Alpha. Welcome to our Github profile!
