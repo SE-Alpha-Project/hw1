@@ -42,6 +42,12 @@ Fibonacci numbers are pervasive in both the natural world and human-created syst
 
 ## Usage
 
+## Golden Ratio 
+
+The Golden Ratio is closely related to the Fibonacci sequence in an interesting way. The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, starting from 0 and 1 (i.e., 0, 1, 1, 2, 3, 5, 8, 13, 21, and so on).
+
+As you progress through the Fibonacci sequence and look at the ratios of successive Fibonacci numbers (e.g., 1/1, 2/1, 3/2, 5/3, 8/5, etc.), these ratios approach the Golden Ratio. In other words, as n becomes larger, the ratio of the n-th Fibonacci number to the (n−1)-th Fibonacci number gets closer and closer to φ. This convergence can be demonstrated mathematically, and it's a beautiful example of how an iterative process (like generating the Fibonacci sequence) can approximate a fundamental mathematical constant.
+
 ## Authors
 [Chaitralee Datar]()
 
