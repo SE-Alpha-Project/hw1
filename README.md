@@ -1,7 +1,3 @@
-Hi everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-We are Team Apha & Welcome to our HW1 Repository.
-
 ![Static Badge](https://img.shields.io/badge/python-3.13-brightgreen)
 ![Static Badge](https://img.shields.io/badge/platform-linux-blue)
 ![Static Badge](https://img.shields.io/badge/license-MIT-purple)
@@ -9,6 +5,11 @@ We are Team Apha & Welcome to our HW1 Repository.
 [![Coverage Status](https://we-cli.github.io/jayin/badges/coverage.svg)](https://github.com/SE-Alpha-Project/hw1/actions)
 
 ![MasterHead](https://3.bp.blogspot.com/-958_Gx2Xei8/VP3gwLYI06I/AAAAAAAAASo/L05aJuMmZoY/s1600/fibonacci.gif)
+
+Hi Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+We are Team Apha & Welcome to our HW1 Repository.
+
 
 ## What Are Fibonacci Numbers?
 Fibonacci numbers are a sequence of numbers where each number is the sum of the two preceding ones, usually starting with 0 and 1. The sequence typically starts as follows:
