@@ -6,7 +6,7 @@
 
 ![MasterHead](https://3.bp.blogspot.com/-958_Gx2Xei8/VP3gwLYI06I/AAAAAAAAASo/L05aJuMmZoY/s1600/fibonacci.gif)
 
-Hi Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Hi Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">
 
 We are Team Apha & Welcome to our HW1 Repository.
 
