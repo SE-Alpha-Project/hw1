@@ -45,12 +45,12 @@ Fibonacci numbers are important because they appear in many natural phenomena, i
 Fibonacci numbers are pervasive in both the natural world and human-created systems, serving as a bridge between mathematics, nature, art, and technology.
 
 ## Usage
-   - **Python Pre-requisite:** Python 3.x
-   - **Python Run Command:** You can use the following commmand for running the Python code
+1. **Python Pre-requisite:** Python 3.x
+2. **Python Run Command:** You can use the following commmand for running the Python code
 ```sh
-python3 main.py
+python3 fibo.py
 ```
-   - **Python Test Cases Run Command:**
+3. **Python Test Cases Run Command:**
 ```sh
 pytest
 ```
