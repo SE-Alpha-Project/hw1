@@ -68,5 +68,5 @@ coverage run -m pytest
 
 [Yash Shah](https://www.linkedin.com/in/yash2705/)
 
-[Ananya Patankar]()
+[Ananya Patankar](https://www.linkedin.com/in/ananya-patankar/)
 
