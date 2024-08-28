@@ -56,7 +56,7 @@ pytest
 ```
 
 ## Authors
-[Chaitralee Datar]()
+[Chaitralee Datar](https://www.linkedin.com/in/cd2001/)
 
 [Yash Shah](https://github.com/yash2705)
 
