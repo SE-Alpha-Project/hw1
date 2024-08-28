@@ -46,22 +46,27 @@ Fibonacci numbers are pervasive in both the natural world and human-created syst
 
 ## Usage
 1. **Python Pre-requisite:** Python 3.x
-2. **Python Run Command:** You can use the following commmand for running the Python code
+2. **Navigate to the code directory**
 ```sh
-python3 fibo.py
+cd se_alpha_1
+pip install -r requirements.txt
 ```
-3. **Python Test Cases Run Command:** You can use the following commmand for running the Python tests
+3. **Python Run Command:** You can use the following commmand for running the Python code
+```sh
+python fibonacci.py
+``` 
+4. **Python Test Cases Run Command:** You can use the following commmand for running the Python tests
 ```sh
 pytest
 ```
-4. **Python Test Code Coverage:** You can use the following commmand for checking the overall code coverage
+5. **Python Test Code Coverage:** You can use the following commmand for checking the overall code coverage
 ```sh
 coverage run -m pytest
 ```
 ## Authors
 [Chaitralee Datar](https://www.linkedin.com/in/cd2001/)
 
-[Yash Shah](https://github.com/yash2705)
+[Yash Shah](https://www.linkedin.com/in/yash2705/)
 
 [Ananya Patankar]()
 
