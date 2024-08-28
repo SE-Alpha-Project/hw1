@@ -50,11 +50,14 @@ Fibonacci numbers are pervasive in both the natural world and human-created syst
 ```sh
 python3 fibo.py
 ```
-3. **Python Test Cases Run Command:**
+3. **Python Test Cases Run Command:** You can use the following commmand for running the Python tests
 ```sh
 pytest
 ```
-
+4. **Python Test Code Coverage:** You can use the following commmand for checking the overall code coverage
+```sh
+coverage run -m pytest
+```
 ## Authors
 [Chaitralee Datar](https://www.linkedin.com/in/cd2001/)
 
